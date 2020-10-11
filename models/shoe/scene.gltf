@@ -1,0 +1,327 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 118,
+      "max": [
+        11.956299781799316,
+        2.0260000228881836,
+        8.2777996063232422
+      ],
+      "min": [
+        -7.5332999229431152,
+        -2.2320001125335693,
+        6.8232998847961426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1416,
+      "componentType": 5126,
+      "count": 118,
+      "max": [
+        0.99764388799667358,
+        0.98935496807098389,
+        0.98420834541320801
+      ],
+      "min": [
+        -0.85974448919296265,
+        -0.97373282909393311,
+        -0.99313050508499146
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 118,
+      "max": [
+        0.99537593126296997,
+        0.98611956834793091,
+        0.94707131385803223,
+        1
+      ],
+      "min": [
+        -0.98601114749908447,
+        -0.9978262186050415,
+        -0.75514531135559082,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 118,
+      "max": [
+        0.9682999849319458,
+        0.9156000018119812
+      ],
+      "min": [
+        0.12250000238418579,
+        0.013700000010430813
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 336,
+      "max": [
+        117
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2832,
+      "componentType": 5126,
+      "count": 25720,
+      "max": [
+        13.587300300598145,
+        4.2746000289916992,
+        17.676599502563477
+      ],
+      "min": [
+        -8.4441003799438477,
+        -4.7326998710632324,
+        6.8232998847961426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 311472,
+      "componentType": 5126,
+      "count": 25720,
+      "max": [
+        0.99949437379837036,
+        0.99998772144317627,
+        0.99993813037872314
+      ],
+      "min": [
+        -0.99997210502624512,
+        -0.99998199939727783,
+        -0.99987590312957764
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1888,
+      "componentType": 5126,
+      "count": 25720,
+      "max": [
+        0.99887651205062866,
+        0.99992358684539795,
+        0.99927496910095215,
+        1
+      ],
+      "min": [
+        -0.9999811053276062,
+        -0.99970096349716187,
+        -0.9994511604309082,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 944,
+      "componentType": 5126,
+      "count": 25720,
+      "max": [
+        0.99940001964569092,
+        0.99940001964569092
+      ],
+      "min": [
+        0.00060000002849847078,
+        0.0081000002101063728
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1344,
+      "componentType": 5125,
+      "count": 133164,
+      "max": [
+        25719
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "cractul (https://sketchfab.com/cractul)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/a13e05f2475d4f89ae7fbbbeb1859e85",
+      "title": "Climbing Shoe"
+    },
+    "generator": "Sketchfab-3.27.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 534000,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 206704,
+      "byteOffset": 534000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 620112,
+      "byteOffset": 740704,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 413408,
+      "byteOffset": 1360816,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1774224,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/wire_134006006_baseColor.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "wire_134006006",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.69052085880000003,
+          0.69052085880000003,
+          0.69052085880000003,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Climbing shoe.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+

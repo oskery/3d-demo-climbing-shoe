@@ -1,0 +1,25 @@
+html {
+  font-size: 14px;
+}
+body {
+  margin: 0;
+  model-viewer {
+    width: 100% !important;
+    height: 100vh;
+    #controls {
+      position: fixed;
+      bottom: 5vh;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      button {
+        cursor: pointer;
+        font-size: 2rem;
+        padding: .5rem 1rem;
+      }
+    }
+  }
+  :focus-visible polyfill {
+    outline: none;
+  }
+}
